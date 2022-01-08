@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Cláudio Menezes
     tagline: Managing Partner
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: clamenezes.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: cla.menezes@gmail.com
