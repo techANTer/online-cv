@@ -7,21 +7,18 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Cláudio Menezes
+    tagline: Managing Partner
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: cla.menezes@gmail.com
+    phone: 012 345 678
+    website: damiagroup.pt #do not add http://
+    linkedin: clamenezes
+    github: clamenezes
     telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
+    twitter: '@clamenezes'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -50,16 +47,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a Tech enthusiastic, People passionate and Business thinker always looking to achieve the best of me and my teams.
+      Innovative, creative and well-humored, I am a hands-on manager and a “Stay hungry. Stay foolish” strategist.
+      Energetic, solutions-oriented, direct, pragmatic and particular interested for ideas that brings disruptions to the market.
+      Finally, I see myself as an entrepreneurial manager that combines skills experience and educational background to achieve excellence in what I do.
 education:
     - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+      university: University of Évora
+      time: 1999 - 2007
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
